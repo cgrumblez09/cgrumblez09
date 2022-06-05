@@ -26,11 +26,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <p align = "center"> Skills and Experience: HTML 💻 / CSS 🖌️/JS 📱/REACT :atom:</p>
 <div align = "center">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  alt="html5"      width="40" height="40"/>
-   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"       width="40" height="40"/>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"        alt="javascript" width="40" height="40"/>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"        alt="javascript" width="40" height="40"/>
-   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"        alt="javascript" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  alt="html5"      width="80" height="80"/>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"       width="80" height="80"/>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"        alt="javascript" width="80" height="80"/>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"        alt="javascript" width="80" height="80"/>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"        alt="javascript" width="80" height="80"/>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"        alt="javascript" width="80" height="80"/>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"        alt="javascript" width="80" height="80"/>
     
  </div>
 
@@ -45,6 +47,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
 </p>
 <!--
 **cgrumblez09/cgrumblez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
