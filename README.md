@@ -20,9 +20,15 @@
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=cgrumblez09&style=flat-square&color=blue" alt=""/>
 </div>
-#### Hi there 👋, my name is Christian Guizar
-#### I am Full Stack Web Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hi there 👋 my name is Christian Guizar and I am Full Stack Web Developer Located in Austin, TX.
+<p>- 🔭 I’m currently working on personal projects and development</p>
+<p>- 🌱 I’m currently learning JavaScript</p>
+<!-- <p>- 👯 I’m looking to collaborate on ...</p>
+<p>- 🤔 I’m looking for help with ...</p> -->
+<p>- 💬 Ask me about sutdying and learning code</p>
+<p>- 📫 How to reach me: </p>
+<!-- <p>- 😄 Pronouns: ...</p> -->
+<p>- ⚡ Fun fact: I love me some tacos 🌮</p>
 
 <p align = "center"> Skills and Experience: HTML 💻 / CSS 🖌️/JS 📱/REACT :atom:</p>
 <div align = "center">
